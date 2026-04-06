@@ -1,4 +1,4 @@
-# NYC Taxi Analytics Pipeline 🚕
+# NYC Taxi Analytics Pipeline 
 
 ## Overview
 
