@@ -44,19 +44,19 @@ S3 → Athena → SQL → CSV → Python Visualization
 
 ### Peak Hours
 
-![Peak Hours](peak_hours.png)
+![Peak Hours](screenshots/peak_hours.png)
 
 ### Payment Type
 
-![Payment](dashboard/payment_type.png)
+![Payment](screenshots/payment_type.png)
 
 ### Distance vs Fare
 
-![Distance](dashboard/distance_fare.png)
+![Distance](screenshots/distance_fare.png)
 
 ### Total Revenue
 
-![Revenue](dashboard/total_revenue.png)
+![Revenue](screenshots/total_revenue.png)
 
 ## Project Files
 
