@@ -48,15 +48,15 @@ S3 → Athena → SQL → CSV → Python Visualization
 
 ### Payment Type
 
-![Payment Type](payment_type.png)
+!(payment_type.png)
 
 ### Distance vs Fare
 
-![Distance Fare](distance_fare.png)
+!(distance_fare.png)
 
 ### Total Revenue
 
-![Revenue](total_revenue.png)
+!(total_revenue.png)
 
 ## Project Files
 
